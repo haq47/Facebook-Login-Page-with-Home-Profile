@@ -9,7 +9,4 @@ This is a design for PHP & MySQL Develoeprs with OOP. Also AJAX will help to dev
 * Responsive media query 
 
 ## Develoeprs Details
-### Asraful Haque
-####Senior Programmer & Software Developer 
-####+880 1716214390
-####[Website](http://asrafulhaq.com/)
+[Asraful Haque](http://asrafulhaq.com/)
